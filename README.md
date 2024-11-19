@@ -1,3 +1,7 @@
 # ads-ico-2024-2b
 
 Adicionando uma linha de teste
+
+Uma nova mensagem
+
+Hoje é sexta-feira
